@@ -1,0 +1,17 @@
+{
+  "name": "resume-project-express",
+  "version": "1.0.0",
+  "main": "app.js",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "5.0.0-alpha.8"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
